@@ -22,7 +22,7 @@ data_dir2 = r'D:\Alex laptop\source_images'
 # image settings
 SIZE = 256
 tileSize = 16
-weight = np.array([1.0,0.0,0.0])
+weight = np.array([1.0,.0,0.0])
 # targetImageFile = '1 - PA15xHi.jpg'
 targetImageFile = '6 - cYsggBH.jpg'
 targetColorSpace = cv2.COLOR_BGR2YCR_CB
